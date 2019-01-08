@@ -1,6 +1,6 @@
 # EPPR-1.2
 
-EP for Probabilistic Reachability
+EP tool for Probabilistic Reachability
 
 Build EPRP-1.2:
 
